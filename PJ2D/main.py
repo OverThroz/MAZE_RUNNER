@@ -64,7 +64,7 @@ tile_size = l // g_L
 maze_grid_x = (L-(tile_size*g_l))//2
 maze_grid_y = 0
 
-skin = p.image.load('Among-Us.jpg').convert_alpha()
+skin = p.image.load('PJ2D/ghst.jpg').convert_alpha()
 
 w_skin = skin.get_width()
 h_skin = skin.get_height()
